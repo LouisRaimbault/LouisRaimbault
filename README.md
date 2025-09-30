@@ -1,7 +1,7 @@
 # 👋 Louis Raimbault, PhD Applied Mathematics
 
 Welcome to my GitHub profile!  
-I am passionate about applied mathematics, the development of **runtime-optimized software with efficient memory management**, and artificial intelligence.  
+I am passionate about applied mathematics and informatic, the development of **runtime-optimized software with efficient memory management**, and artificial intelligence.  
 
 If you have any remarks or questions, feel free to send me an email at Louis.Raimbault@icloud.com.
 
@@ -17,7 +17,7 @@ These focus mainly on **data mining**, **statistics**, and **artificial intellig
 
 ---
 
-## 2) 📂 Data Mining Projects
+## 2) ⛏️ Data Mining Projects
 
 During my PhD, I published **two papers** on the discovery of **frequent itemsets** and **association rules**.  
 These works rely on specialized tree structures that enable efficient recursion over items:  
