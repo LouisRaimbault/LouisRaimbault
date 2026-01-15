@@ -48,6 +48,14 @@ This allows for an effective **summary of databases**. Two GitHub repositories w
 2) My interest in AI, particularly **neural networks**, led me to develop my own **fully-connected neural network implementation in C/C++ from scratch**.  
 This initial library aims to provide solutions for AI in **embedded or constrained environments**. Future updates may be provided, but the current version is closely tied to my ongoing work, and the libraries are **not publicly shared** at this time.
 
+3) I am currently developing a **C++ project based on libtorch (PyTorch C++) and Qt**, designed to **automate both the training and application of neural network models**.  
+This project is partly intended to support my professional work. Its main goal is to provide assistance in defining multiple architectures, allowing the dynamic construction of various model types.  
+
+The software **automatically handles data loading, target definition, training, and inference**, and it also generates a **compilable LaTeX report** to present the results for one or multiple models.  
+A **Qt graphical interface** allows for intuitive configuration of hyperparameters, model architectures, and search ranges.  
+
+This project is **currently in progress** and is planned to be further extended in the future.
+
 
 ---
 
